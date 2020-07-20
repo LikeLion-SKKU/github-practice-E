@@ -1,4 +1,4 @@
-# github-practice-A
+# github-practice-E
 ## 팀 맴버
 ### 박성우
 - 멋쟁이 사자처럼 6기
